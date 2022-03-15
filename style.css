@@ -1,0 +1,22 @@
+body{
+
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    background-image: url('snake.webp');
+    background-repeat: no-repeat;
+    background-color: black;
+
+}
+
+h2{
+    color: greenyellow;
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
+    font-size: 20px;
+}
